@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pensando 02</title>
+</head>
+<body>
+    <h1>Fazendo no papel e passando para o computador - 04</h1>
+
+    <p>Elabore um algoritmo que solicite ao usuário o nome de uma disciplina e suas quatro notas bimestrais. O algoritmo deve calcular a média dessas notas e exibir uma mensagem informando que a média da disciplina nome é média.
+    </p>
+
+    <script>
+
+        let materia = prompt("Qual o nome da disciplina? ")
+
+        let nota1 = prompt("Qual foi sua nota no primeiro bimestre? ")
+        nota1 = parseFloat(nota1)
+
+        let nota2 = prompt("Qual foi sua nota no segundo bimestre? ")
+        nota2 = parseFloat(nota2)
+
+        let nota3 = prompt("Qual foi sua nota no terceiro bimestre? ")
+        nota3 = parseFloat(nota3)
+
+        let nota4 = prompt("Qual foi sua nota no quarto bimestre? ")
+        nota4 = parseFloat(nota4)
+
+        let media = (nota1 + nota2 + nota3 + nota4) / 4
+
+        alert("A sua média é: " + media) 
+
+    </script>
+    
+</body>
+</html>

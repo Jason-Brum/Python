@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pensando 02</title>
+</head>
+<body>
+    <h1>Fazendo no papel e passando para o computador - 05</h1>
+
+    <p>Elabore um algoritmo que solicite valor de um produto e a quantidade comprada, informando o valor total de compra calculado.
+    </p>
+
+    <script>
+
+        let produto = prompt("Digite o valor do produto desejado:");
+        produto = parseFloat(produto);  
+
+        let quant = prompt("Digite a quantidade desejada: ");
+        quant = parseInt(quant)
+
+        let resultado = produto * quant
+
+        let desconto = (produto*quant) / 100 * 85
+        
+        alert("O total das suas compras é: " + resultado)
+
+
+    </script>
+    
+</body>
+</html>

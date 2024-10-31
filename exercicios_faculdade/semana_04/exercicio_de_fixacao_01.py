@@ -1,3 +1,6 @@
+#Crie um programa que solicite ao usuário seis números, calculando a média, e mostre uma lista com os números iguais ou acima da média e uma lista com os números abaixo da média.
+
+
 nums = []
 maiores = []
 menores = []

@@ -17,7 +17,7 @@ for chave, valor in estoque.items():
 
 # O código utiliza a função print() para exibir as informações na tela. Veja como formatamos uma frase mais bonita usando f-strings na última linha do código para facilitar a exibição das informações. Outra forma de mostrar os mesmos valores seria:
 
-print(---------------------)
+print("---------------------")
 
 for chave in estoque.keys():
     print(f"Temos {estoque[chave]} unidades de {chave} em estoque.")

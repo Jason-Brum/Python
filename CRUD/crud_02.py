@@ -59,4 +59,9 @@ while True: #laço principal que é executado até que o usuário escolha sair
         print("Opção inválida! Tente novamente")
 
 
-
+#PRÓXIMOS PASSOS A PARTIR DA SEMANA 4
+#  Desenvolva as funcionalidades de incluir e listar estudantes
+    # apenas o nome do estudante deve ser perguntado ao usuário
+    # os nomes dos estudantes devem ser armazenados em uma lista
+    # caso o usuário escolha professores, disciplinas, turmas ou matérias, o sistema deve mostrar a mensagem "em desenvolvimento" - Ou seja, só vai funcionar para estudantes.
+    # caso o usuário escolha as opções atualizar ou excluir no menu de operações do estudante o sistema deve mostrar a msg "em desenvolvimento" e mostrar novamente o menu de operações

@@ -1,0 +1,27 @@
+[
+    {
+        "codigo": 1,
+        "nome": "Galbas",
+        "cpf": "74125896387"
+    },
+    {
+        "codigo": 2,
+        "nome": "Maur\u00edcio",
+        "cpf": "78965432402"
+    },
+    {
+        "codigo": 3,
+        "nome": "Wellington",
+        "cpf": "55246876120"
+    },
+    {
+        "codigo": 4,
+        "nome": "Jhonatan",
+        "cpf": "74185201452"
+    },
+    {
+        "codigo": 5,
+        "nome": "Raimundo",
+        "cpf": "87564135702"
+    }
+]

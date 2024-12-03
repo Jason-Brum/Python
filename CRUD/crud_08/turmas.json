@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": 1101,
+        "codigo_professor": 1,
+        "codigo_disciplina": 1
+    },
+    {
+        "codigo": 2202,
+        "codigo_professor": 3,
+        "codigo_disciplina": 1
+    }
+]
